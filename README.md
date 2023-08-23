@@ -1,1 +1,1 @@
-Testing git wieth RHEL9
+Testing git with RHEL9
